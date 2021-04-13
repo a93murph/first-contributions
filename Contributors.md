@@ -2907,6 +2907,7 @@
 - [Jenndroid](https://github.com/jenndroid)
 - [Samik Goyal](https://github.com/Samikdevel)
 - [Marcus Luong](https://github.com/MarcusLuong)
+- [Allie Murphy](https://github.com/a93murph)
 - [Kaitlyn Zavala](https://github.com/kzavala)
 - [Ahsan Khan](https://github.com/ahsankhan26)
 - [Nikhil Singhal](https://github.com/nikhil-stack)
